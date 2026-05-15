@@ -3,4 +3,3 @@ CREATE TABLE items (
     name VARCHAR(255) NOT NULL
 );
 INSERT INTO items (name) VALUES ('Пример 1'), ('Пример 2');
-
